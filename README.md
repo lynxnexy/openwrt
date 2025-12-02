@@ -9,7 +9,7 @@ OpenWrt 24.10.4 stable release for `Amlogic` and `Rockchip` with more packages p
 <tr>
 <td valign="top">
 
-### Supported Devices
+## Supported Devices
 
 | Device | Firmware Code |
 |--------|---------------|
@@ -21,22 +21,13 @@ OpenWrt 24.10.4 stable release for `Amlogic` and `Rockchip` with more packages p
 | NanoPi R5C | `nanopi-r5c` |
 | Orange Pi 5 Plus | `orangepi-5-plus` |
 
-</td>
-<td valign="top">
+## Firmware Information
 
-### Firmware Information
-
-| Setting | Value |
-|---------|-------|
-| Default IP | `192.168.1.1` |
-| Default username | `root` |
-| Default password | `passwd` |
-| Default WIFI name | `LYNX` |
-| Default WIFI password | `none` |
-
-</td>
-</tr>
-</table>
+1. Default IP: `192.168.1.1`
+2. Default username: `root`
+3. Default password: `passwd`
+4. Default WIFI name: `LYNX`
+5. Default WIFI password: `none`
 
 ## Amlogic Service
 
