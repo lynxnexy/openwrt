@@ -1,7 +1,7 @@
 ## OpenWrt 24.10.4
 
-[<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/lynxnexy/openwrt?cacheSeconds=3600">](https://github.com/lynxnexy/openwrt/releases/latest)
-[<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/lynxnexy/openwrt/total?cacheSeconds=3600">](https://github.com/lynxnexy/openwrt/releases)
+[<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/lynxnexy/openwrt">](https://github.com/lynxnexy/openwrt/releases/latest)
+[<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/lynxnexy/openwrt/total">](https://github.com/lynxnexy/openwrt/releases)
 
 OpenWrt 24.10.4 stable release for `Amlogic` and `Rockchip` with more packages ported, more devices supported, better performance, and special optimizations for users.
 
