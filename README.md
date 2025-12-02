@@ -5,10 +5,6 @@
 
 OpenWrt 24.10.4 stable release for `Amlogic` and `Rockchip` with more packages ported, more devices supported, better performance, and special optimizations for users.
 
-<table>
-<tr>
-<td valign="top">
-
 ## Supported Devices
 
 | Device | Firmware Code |
