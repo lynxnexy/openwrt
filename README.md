@@ -1,9 +1,9 @@
-## OpenWrt 24.10.x
+## OpenWrt 24.10.5
 
 [<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/lynxnexy/openwrt">](https://github.com/lynxnexy/openwrt/releases/latest)
 [<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/lynxnexy/openwrt/total">](https://github.com/lynxnexy/openwrt/releases)
 
-OpenWrt 24.10.x stable release for `Amlogic` and `Rockchip` with more packages ported, more devices supported, better performance, and special optimizations for users.
+OpenWrt 24.10.5 stable release for `Amlogic` with more packages ported, more devices supported, better performance, and special optimizations for users.
 
 ## Supported Devices
 
@@ -13,9 +13,6 @@ OpenWrt 24.10.x stable release for `Amlogic` and `Rockchip` with more packages p
 | B860H | `s905x-b860h` |
 | HG680-FJ | `s905x2-hg680fj` |
 | Nexbox A95X-A2 | `s912-nexbox-a2` |
-| NanoPi R5S | `nanopi-r5s` |
-| NanoPi R5C | `nanopi-r5c` |
-| Orange Pi 5 Plus | `orangepi-5-plus` |
 
 ## Firmware Information
 
