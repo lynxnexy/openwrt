@@ -14,6 +14,12 @@ OpenWrt 24.10.5 stable release for `Amlogic` with more packages ported, more dev
 | HG680-FJ | `s905x2-hg680fj` |
 | Nexbox A95X-A2 | `s912-nexbox-a2` |
 
+## Special Packages
+1. `luci-theme-tano` Tano themes for LuCI (Default Themes)
+2. `luci-app-manager` LuCI File Manager - Advanced file management with various Special features.
+3. `luci-app-sms` LuCI Support for ModemManager SMS
+4. `luci-app-myxl` LuCI support for myXL
+
 ## Firmware Information
 
 1. Default IP: `192.168.1.1`
